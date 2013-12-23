@@ -1,0 +1,14 @@
+/********************************************************
+Theme Name: Adaptive
+Theme URI: http://wordpress.org/themes/twentythirteen
+Author: Praveen
+Author URI: http://wordpress.org/
+Description: The Adaptive for WordPress takes us back to the blog, f.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: 2 Columns, Responsive
+************************************************************************************/
+
+@import url("css/bootstrap.css");
+@import url("css/master.css");
