@@ -8,24 +8,12 @@
 			<div class="container">
 			
 				<div class="row">
-				
-					<div class="span3">
-						
-						<p>Footer widget 1</p>
-						
-					</div> <!-- end span3 -->
-					
-					<div class="span3">
-						
-						<p>Footer Widget 2</p>
-						
-					</div> <!-- end span3 -->
-					
-					<div class="span6">
-						
-						<p>Footer Widget 3</p>
-						
-					</div> <!-- end span6 -->
+				<div class="span3">
+					<?php get_sidebar('left-footer'); ?>
+				</div>
+				<div class="span6">
+					<?php get_sidebar('right-footer'); ?>
+				</div>
 					
 				</div> <!-- end row -->
 				
